@@ -10,7 +10,7 @@
 	<div class="wp-block-group">
 		<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 		<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)">
-			<!-- wp:site-logo {\"url\":\"/assets/images/vip-logo-only-blk-gold.svg\",\"width\":150} /-->
+			<!-- wp:site-logo {"url":"/assets/images/vip-logo-only-blk-gold.svg","width":150} /-->
 		</div>
 		<!-- /wp:group -->
 	</div>
